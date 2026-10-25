@@ -1,10 +1,9 @@
 <div align="center">
 
 # Gabriel Rodrigues
-### Desenvolvimento web · Python · Automação
+### Estudante de Análise e Desenvolvimento de Sistemas
 
-Estudante de Análise e Desenvolvimento de Sistemas  
-Interesse em cibersegurança e em criar soluções úteis para o dia a dia.
+Aprendendo Python, HTML, CSS, Java e Git.
 
 </div>
 
@@ -12,35 +11,29 @@ Interesse em cibersegurança e em criar soluções úteis para o dia a dia.
 
 ## Sobre mim
 
-Estou construindo minha trajetória em tecnologia, combinando estudos em programação com minha experiência em atendimento e BackOffice. Essa vivência me ajuda a identificar tarefas repetitivas e pensar em ferramentas que tornem o trabalho mais simples e organizado.
+Estou iniciando minha trajetória em programação e construindo uma base em desenvolvimento de sistemas. Aprendo por meio de exercícios e pequenos projetos, colocando em prática cada novo conceito.
 
-Tenho interesse em desenvolvimento de sistemas, automação de processos e segurança da informação. Valorizo interfaces claras, aprendizado contínuo e soluções que partem de problemas reais.
+Tenho interesse em desenvolvimento web e cibersegurança. Este perfil reúne minha evolução nos estudos e a construção do meu portfólio.
 
-## Tecnologias e ferramentas
+## Tecnologias que estou aprendendo
 
-| Área | Conhecimentos e estudos |
+| Área | Tecnologias |
 | --- | --- |
-| Desenvolvimento web | HTML, CSS e JavaScript |
-| Programação | Python |
-| Versionamento | Git e GitHub |
-| Ambiente de desenvolvimento | VS Code e Linux |
-| Design de interfaces | Figma |
+| Programação | Python e Java |
+| Desenvolvimento web | HTML e CSS |
+| Versionamento | Git |
 
 ## Foco atual
 
-- Praticar lógica de programação e desenvolver aplicações com Python.
-- Integrar interfaces web com o back-end, estudando Flask.
-- Aprimorar o uso de Git e a documentação dos projetos.
-- Estudar fundamentos de Linux e cibersegurança.
-
-## Como penso meus projetos
-
-Meu foco é transformar necessidades do cotidiano em aplicações práticas, especialmente em organização de informações e automação de rotinas. Este perfil acompanha minha evolução e a construção do meu portfólio.
+- Praticar lógica de programação com Python e Java.
+- Criar páginas web com HTML e CSS.
+- Aprender a versionar projetos com Git e organizá-los no GitHub.
+- Documentar os exercícios e registrar meu aprendizado.
 
 ---
 
 <div align="center">
 
-**Aprender, construir e melhorar a cada projeto.**
+**Aprender, praticar e evoluir a cada projeto.**
 
 </div>
