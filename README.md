@@ -5,6 +5,8 @@
 
 Learning Python, HTML, CSS, Java and Git.
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/gabriel-rodrigues-33b831370/)
+
 </div>
 
 ---
